@@ -1,4 +1,4 @@
-# spring-cameraaThis is the backend for the camera-project repository.
+# This is the backend for the camera-project repository.
 
 To run first make sure you have mongodb running with the below configurations or update the application configurations.
 
