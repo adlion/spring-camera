@@ -14,6 +14,7 @@ To run first make sure you have mongodb running with the below configurations or
 
 
 ====================================== Docker Compose ====================================== 
+
 To run with docker please create a directory "mongoDB" on the same level with docker-compose and after you can build the camera-api image
 
 You can build camera-api image by running `docker build -t camera-api .`
