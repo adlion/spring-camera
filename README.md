@@ -11,3 +11,11 @@ To run first make sure you have mongodb running with the below configurations or
 `spring.data.mongodb.username=root` ==> the user that application will use to authenticate itself on mongo.
 
 `spring.data.mongodb.password=password` ==> the password that application will use to authenticate itself on mongo.
+
+
+================================================================== Docker Compose ================================================================================
+
+To run with docker please create a directory "mongoDB" on the same level with docker-compose and after you can build the camera-api image
+You can build camera-api image by running `docker build -t camera-api .`
+
+
